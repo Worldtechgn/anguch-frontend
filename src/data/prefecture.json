@@ -1,0 +1,278 @@
+[
+    {
+        "id_prefecture": "1",
+        "nom": "Conakry",
+        "slug": "conakry",
+        "id_region": "1"
+    },
+    {
+        "id_prefecture": "2",
+        "nom": "Kindia",
+        "slug": "kindia",
+        "id_region": "2"
+    },
+    {
+        "id_prefecture": "3",
+        "nom": "Coyah",
+        "slug": "coyah",
+        "id_region": "2"
+    },
+    {
+        "id_prefecture": "4",
+        "nom": "Dubreka",
+        "slug": "dubreka",
+        "id_region": "2"
+    },
+    {
+        "id_prefecture": "5",
+        "nom": "Forecariah",
+        "slug": "forecariah",
+        "id_region": "2"
+    },
+    {
+        "id_prefecture": "6",
+        "nom": "Telimele",
+        "slug": "telimele",
+        "id_region": "2"
+    },
+    {
+        "id_prefecture": "7",
+        "nom": "Boké",
+        "slug": "boke",
+        "id_region": "3"
+    },
+    {
+        "id_prefecture": "8",
+        "nom": "Boffa",
+        "slug": "boffa",
+        "id_region": "3"
+    },
+    {
+        "id_prefecture": "9",
+        "nom": "Gaoul",
+        "slug": "gaoul",
+        "id_region": "3"
+    },
+    {
+        "id_prefecture": "10",
+        "nom": "Koundara",
+        "slug": "koundara",
+        "id_region": "3"
+    },
+    {
+        "id_prefecture": "11",
+        "nom": "Fria",
+        "slug": "fria",
+        "id_region": "3"
+    },
+    {
+        "id_prefecture": "12",
+        "nom": "Faranah",
+        "slug": "faranah",
+        "id_region": "4"
+    },
+    {
+        "id_prefecture": "13",
+        "nom": "Dinguiraye",
+        "slug": "dinguiraye",
+        "id_region": "4"
+    },
+    {
+        "id_prefecture": "14",
+        "nom": "Dabola",
+        "slug": "dabola",
+        "id_region": "4"
+    },
+    {
+        "id_prefecture": "15",
+        "nom": "Kissidougou",
+        "slug": "kissidougou",
+        "id_region": "4"
+    },
+    {
+        "id_prefecture": "16",
+        "nom": "Kankan",
+        "slug": "kankan",
+        "id_region": "5"
+    },
+    {
+        "id_prefecture": "17",
+        "nom": "Kérouané",
+        "slug": "kerouane",
+        "id_region": "5"
+    },
+    {
+        "id_prefecture": "18",
+        "nom": "Kouroussa",
+        "slug": "kouroussa",
+        "id_region": "5"
+    },
+    {
+        "id_prefecture": "19",
+        "nom": "Mandiana",
+        "slug": "mandiana",
+        "id_region": "5"
+    },
+    {
+        "id_prefecture": "20",
+        "nom": "Siguiri",
+        "slug": "siguiri",
+        "id_region": "5"
+    },
+    {
+        "id_prefecture": "21",
+        "nom": "Mamou",
+        "slug": "mamou",
+        "id_region": "6"
+    },
+    {
+        "id_prefecture": "22",
+        "nom": "Dalaba",
+        "slug": "dalaba",
+        "id_region": "6"
+    },
+    {
+        "id_prefecture": "23",
+        "nom": "Pita",
+        "slug": "pita",
+        "id_region": "6"
+    },
+    {
+        "id_prefecture": "24",
+        "nom": "Labé",
+        "slug": "labe",
+        "id_region": "7"
+    },
+    {
+        "id_prefecture": "25",
+        "nom": "Koubia",
+        "slug": "koubia",
+        "id_region": "7"
+    },
+    {
+        "id_prefecture": "26",
+        "nom": "Lelouma",
+        "slug": "lelouma",
+        "id_region": "7"
+    },
+    {
+        "id_prefecture": "27",
+        "nom": "Mali",
+        "slug": "mali",
+        "id_region": "7"
+    },
+    {
+        "id_prefecture": "28",
+        "nom": "Tougué",
+        "slug": "tougue",
+        "id_region": "7"
+    },
+    {
+        "id_prefecture": "29",
+        "nom": "Nzérékoré",
+        "slug": "nzerekore",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "30",
+        "nom": "Beyla",
+        "slug": "beyla",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "31",
+        "nom": "Guéckédou",
+        "slug": "gueckedou",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "32",
+        "nom": "Lola",
+        "slug": "lola",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "33",
+        "nom": "Macenta",
+        "slug": "macenta",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "34",
+        "nom": "Yomou",
+        "slug": "yomou",
+        "id_region": "8"
+    },
+    {
+        "id_prefecture": "35",
+        "nom": "Kankan",
+        "slug": "kankan",
+        "id_region": "9"
+    },
+    {
+        "id_prefecture": "36",
+        "nom": "Kérouané",
+        "slug": "kerouane",
+        "id_region": "9"
+    },
+    {
+        "id_prefecture": "37",
+        "nom": "Kouroussa",
+        "slug": "kouroussa",
+        "id_region": "9"
+    },
+    {
+        "id_prefecture": "38",
+        "nom": "Mandiana",
+        "slug": "mandiana",
+        "id_region": "9"
+    },
+    {
+        "id_prefecture": "39",
+        "nom": "Siguiri",
+        "slug": "siguiri",
+        "id_region": "9"
+    },
+    {
+        "id_prefecture": "40",
+        "nom": "Nzérékoré",
+        "slug": "nzerekore",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "41",
+        "nom": "Beyla",
+        "slug": "beyla",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "42",
+        "nom": "Guéckédou",
+        "slug": "gueckedou",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "43",
+        "nom": "Lola",
+        "slug": "lola",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "44",
+        "nom": "Macenta",
+        "slug": "macenta",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "45",
+        "nom": "Yomou",
+        "slug": "yomou",
+        "id_region": "10"
+    },
+    {
+        "id_prefecture": "46",
+        "nom": "N'zérékoré",
+        "slug": "nzerekore",
+        "id_region": "10"
+    }
+]

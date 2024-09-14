@@ -1,0 +1,2918 @@
+[
+    {
+        "id_commune": "1",
+        "nom": "Matoto",
+        "slug": "matoto",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "2",
+        "nom": "Kaloum",
+        "slug": "kaloum",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "3",
+        "nom": "Dixxin",
+        "slug": "dixxin",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "4",
+        "nom": "Matam",
+        "slug": "matam",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "5",
+        "nom": "Ratoma",
+        "slug": "ratoma",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "6",
+        "nom": "Kassa",
+        "slug": "kassa",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "7",
+        "nom": "Bangouyah",
+        "slug": "bangouyah",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "8",
+        "nom": "Damankanyah",
+        "slug": "damankanyah",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "9",
+        "nom": "Friguiagbé",
+        "slug": "friguiagbe",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "10",
+        "nom": "kindia-Centre",
+        "slug": "kindia-centre",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "11",
+        "nom": "Kolente",
+        "slug": "kolente",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "12",
+        "nom": "Madina oula",
+        "slug": "madina-oula",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "13",
+        "nom": "Mambiya",
+        "slug": "mambiya",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "14",
+        "nom": "Molota",
+        "slug": "molota",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "15",
+        "nom": "Samayah",
+        "slug": "samayah",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "16",
+        "nom": "Sougueta",
+        "slug": "sougueta",
+        "id_prefecture": "2"
+    },
+    {
+        "id_commune": "17",
+        "nom": "Maneah",
+        "slug": "maneah",
+        "id_prefecture": "3"
+    },
+    {
+        "id_commune": "18",
+        "nom": "Kouriah",
+        "slug": "kouriah",
+        "id_prefecture": "3"
+    },
+    {
+        "id_commune": "19",
+        "nom": "Wonkifong",
+        "slug": "wonkifong",
+        "id_prefecture": "3"
+    },
+    {
+        "id_commune": "20",
+        "nom": "Coyah-Centre",
+        "slug": "coyah-centre",
+        "id_prefecture": "3"
+    },
+    {
+        "id_commune": "21",
+        "nom": "Wassou",
+        "slug": "wassou",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "22",
+        "nom": "Khorila",
+        "slug": "khorila",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "23",
+        "nom": "Badi",
+        "slug": "badi",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "24",
+        "nom": "Falessade",
+        "slug": "falessade",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "25",
+        "nom": "Tondon",
+        "slug": "tondon",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "26",
+        "nom": "Tanene",
+        "slug": "tanene",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "27",
+        "nom": "Dubreka-Centre",
+        "slug": "dubreka-centre",
+        "id_prefecture": "4"
+    },
+    {
+        "id_commune": "28",
+        "nom": "Alassoya",
+        "slug": "alassoya",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "29",
+        "nom": "Benty",
+        "slug": "benty",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "30",
+        "nom": "Farmoriyah",
+        "slug": "farmoriyah",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "31",
+        "nom": "Forecariah-Centre",
+        "slug": "forecariah-centre",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "32",
+        "nom": "Kaback",
+        "slug": "kaback",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "33",
+        "nom": "Kakossa",
+        "slug": "kakossa",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "34",
+        "nom": "Kallia",
+        "slug": "kallia",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "35",
+        "nom": "maferenya",
+        "slug": "maferenya",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "36",
+        "nom": "Moussaya",
+        "slug": "moussaya",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "37",
+        "nom": "sikhourou",
+        "slug": "sikhourou",
+        "id_prefecture": "5"
+    },
+    {
+        "id_commune": "38",
+        "nom": "Telimele-Centre",
+        "slug": "telimele-centre",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "39",
+        "nom": "Bourouwal",
+        "slug": "bourouwal",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "40",
+        "nom": "Daramagnaky",
+        "slug": "daramagnaky",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "41",
+        "nom": "Gougoudjé",
+        "slug": "gougoudje",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "42",
+        "nom": "Koba",
+        "slug": "koba",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "43",
+        "nom": "Kollet",
+        "slug": "kollet",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "44",
+        "nom": "Konsotamy",
+        "slug": "konsotamy",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "45",
+        "nom": "Missira",
+        "slug": "missira",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "46",
+        "nom": "Santou",
+        "slug": "santou",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "47",
+        "nom": "Sarekaly",
+        "slug": "sarekaly",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "48",
+        "nom": "Sinta",
+        "slug": "sinta",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "49",
+        "nom": "Sogolon",
+        "slug": "sogolon",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "50",
+        "nom": "Tarihoye",
+        "slug": "tarihoye",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "51",
+        "nom": "Thionthian",
+        "slug": "thionthian",
+        "id_prefecture": "6"
+    },
+    {
+        "id_commune": "52",
+        "nom": "Boké-Centre",
+        "slug": "boke-centre",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "53",
+        "nom": "Bintimodiya",
+        "slug": "bintimodiya",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "54",
+        "nom": "Dabiss",
+        "slug": "dabiss",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "55",
+        "nom": "Kamsar",
+        "slug": "kamsar",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "56",
+        "nom": "Kanfarandé",
+        "slug": "kanfarande",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "57",
+        "nom": "Kolaboui",
+        "slug": "kolaboui",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "58",
+        "nom": "Malapouyah",
+        "slug": "malapouyah",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "59",
+        "nom": "Sangaredi",
+        "slug": "sangaredi",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "60",
+        "nom": "Sansalé",
+        "slug": "sansale",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "61",
+        "nom": "Tanéné",
+        "slug": "tanene",
+        "id_prefecture": "7"
+    },
+    {
+        "id_commune": "62",
+        "nom": "Boffa-Centre",
+        "slug": "boffa-centre",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "63",
+        "nom": "Colia",
+        "slug": "colia",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "64",
+        "nom": "Douprou",
+        "slug": "douprou",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "65",
+        "nom": "Koba-Tatema",
+        "slug": "koba-tatema",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "66",
+        "nom": "Lisso",
+        "slug": "lisso",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "67",
+        "nom": "Mankountan",
+        "slug": "mankountan",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "68",
+        "nom": "Tamita",
+        "slug": "tamita",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "69",
+        "nom": "Tougnifili",
+        "slug": "tougnifili",
+        "id_prefecture": "8"
+    },
+    {
+        "id_commune": "70",
+        "nom": "Gaoul-Centre",
+        "slug": "gaoul-centre",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "71",
+        "nom": "Koumbia",
+        "slug": "koumbia",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "72",
+        "nom": "Kakony",
+        "slug": "kakony",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "73",
+        "nom": "Touba",
+        "slug": "touba",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "74",
+        "nom": "Foulamory",
+        "slug": "foulamory",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "75",
+        "nom": "Wendou M'bour",
+        "slug": "wendou-mbour",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "76",
+        "nom": "Kounsitel",
+        "slug": "kounsitel",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "77",
+        "nom": "Malanta",
+        "slug": "malanta",
+        "id_prefecture": "9"
+    },
+    {
+        "id_commune": "78",
+        "nom": "Guingan",
+        "slug": "guingan",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "79",
+        "nom": "kamaby",
+        "slug": "kamaby",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "80",
+        "nom": "Koundara-Centre",
+        "slug": "koundara-centre",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "81",
+        "nom": "Sambailo",
+        "slug": "sambailo",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "82",
+        "nom": "Sareboido",
+        "slug": "sareboido",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "83",
+        "nom": "Termesse",
+        "slug": "termesse",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "84",
+        "nom": "Youkounkoun",
+        "slug": "youkounkoun",
+        "id_prefecture": "10"
+    },
+    {
+        "id_commune": "85",
+        "nom": "Banguinet",
+        "slug": "banguinet",
+        "id_prefecture": "11"
+    },
+    {
+        "id_commune": "86",
+        "nom": "Banguingny",
+        "slug": "banguingny",
+        "id_prefecture": "11"
+    },
+    {
+        "id_commune": "87",
+        "nom": "Fria-Centre",
+        "slug": "fria-centre",
+        "id_prefecture": "11"
+    },
+    {
+        "id_commune": "88",
+        "nom": "Toremelin",
+        "slug": "toremelin",
+        "id_prefecture": "11"
+    },
+    {
+        "id_commune": "89",
+        "nom": "Marela",
+        "slug": "marela",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "90",
+        "nom": "Passayah",
+        "slug": "passayah",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "91",
+        "nom": "Sandeniah",
+        "slug": "sandeniah",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "92",
+        "nom": "Songoyah",
+        "slug": "songoyah",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "93",
+        "nom": "Tindo",
+        "slug": "tindo",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "94",
+        "nom": "Tiro",
+        "slug": "tiro",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "95",
+        "nom": "Banian",
+        "slug": "banian",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "96",
+        "nom": "Beindou",
+        "slug": "beindou",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "97",
+        "nom": "Farana-Centre",
+        "slug": "farana-centre",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "98",
+        "nom": "Gnaléah",
+        "slug": "gnaleah",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "99",
+        "nom": "Kobikoro",
+        "slug": "kobikoro",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "100",
+        "nom": "Hérémakonon",
+        "slug": "heremakonon",
+        "id_prefecture": "12"
+    },
+    {
+        "id_commune": "101",
+        "nom": "Dinguiraye-Centre",
+        "slug": "dinguiraye-centre",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "102",
+        "nom": "Banora",
+        "slug": "banora",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "103",
+        "nom": "Dialakoro",
+        "slug": "dialakoro",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "104",
+        "nom": "Diatiféré",
+        "slug": "diatifere",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "105",
+        "nom": "Gagnakali",
+        "slug": "gagnakali",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "106",
+        "nom": "Kalinko",
+        "slug": "kalinko",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "107",
+        "nom": "Lansanya",
+        "slug": "lansanya",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "108",
+        "nom": "Sélouma",
+        "slug": "selouma",
+        "id_prefecture": "13"
+    },
+    {
+        "id_commune": "109",
+        "nom": "Arfamoussaya",
+        "slug": "arfamoussaya",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "110",
+        "nom": "Banko",
+        "slug": "banko",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "111",
+        "nom": "Bissikirima",
+        "slug": "bissikirima",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "112",
+        "nom": "Dogomet",
+        "slug": "dogomet",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "113",
+        "nom": "Kankama",
+        "slug": "kankama",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "114",
+        "nom": "Kindoye",
+        "slug": "kindoye",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "115",
+        "nom": "Konindou",
+        "slug": "konindou",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "116",
+        "nom": "Ndéma",
+        "slug": "ndema",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "117",
+        "nom": "Dabola-Centre",
+        "slug": "dabola-centre",
+        "id_prefecture": "14"
+    },
+    {
+        "id_commune": "118",
+        "nom": "Kissidougou-Centre",
+        "slug": "kissidougou-centre",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "119",
+        "nom": "Albadaria",
+        "slug": "albadaria",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "120",
+        "nom": "Banama",
+        "slug": "banama",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "121",
+        "nom": "Bardou",
+        "slug": "bardou",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "122",
+        "nom": "Beindou",
+        "slug": "beindou",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "123",
+        "nom": "Fermessadou-Pombo",
+        "slug": "fermessadou-pombo",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "124",
+        "nom": "Firawa",
+        "slug": "firawa",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "125",
+        "nom": "Gbangbadou",
+        "slug": "gbangbadou",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "126",
+        "nom": "Kondiadou",
+        "slug": "kondiadou",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "127",
+        "nom": "Manfran",
+        "slug": "manfran",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "128",
+        "nom": "Sangardo",
+        "slug": "sangardo",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "129",
+        "nom": "Yendé-Millimou",
+        "slug": "yende-millimou",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "130",
+        "nom": "Yombiro",
+        "slug": "yombiro",
+        "id_prefecture": "15"
+    },
+    {
+        "id_commune": "131",
+        "nom": "Kankan-Centre",
+        "slug": "kankan-centre",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "132",
+        "nom": "Balandougou",
+        "slug": "balandougou",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "133",
+        "nom": "Bate-Nafadji",
+        "slug": "bate-nafadji",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "134",
+        "nom": "Boula",
+        "slug": "boula",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "135",
+        "nom": "Gbérédou-Baranama",
+        "slug": "gberedou-baranama",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "136",
+        "nom": "Kanfamoria",
+        "slug": "kanfamoria",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "137",
+        "nom": "Koumban",
+        "slug": "koumban",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "138",
+        "nom": "Mamouroudou",
+        "slug": "mamouroudou",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "139",
+        "nom": "Missamana",
+        "slug": "missamana",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "140",
+        "nom": "Moribayah",
+        "slug": "moribayah",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "141",
+        "nom": "Sabadou-Baranama",
+        "slug": "sabadou-baranama",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "142",
+        "nom": "Tinti-Oulen",
+        "slug": "tinti-oulen",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "143",
+        "nom": "Tokounou",
+        "slug": "tokounou",
+        "id_prefecture": "16"
+    },
+    {
+        "id_commune": "144",
+        "nom": "Kérouané-Centre",
+        "slug": "kerouane-centre",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "145",
+        "nom": "Banankoro",
+        "slug": "banankoro",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "146",
+        "nom": "Damaro",
+        "slug": "damaro",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "147",
+        "nom": "Komodou",
+        "slug": "komodou",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "148",
+        "nom": "Kounsankoro",
+        "slug": "kounsankoro",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "149",
+        "nom": "Linko",
+        "slug": "linko",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "150",
+        "nom": "Sibiribaro",
+        "slug": "sibiribaro",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "151",
+        "nom": "Soromaya",
+        "slug": "soromaya",
+        "id_prefecture": "17"
+    },
+    {
+        "id_commune": "152",
+        "nom": "Kouroussa-Centre",
+        "slug": "kouroussa-centre",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "153",
+        "nom": "Babila",
+        "slug": "babila",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "154",
+        "nom": "Balato",
+        "slug": "balato",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "155",
+        "nom": "Banfélé",
+        "slug": "banfele",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "156",
+        "nom": "Baro",
+        "slug": "baro",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "157",
+        "nom": "Cisséla",
+        "slug": "cissela",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "158",
+        "nom": "Douako",
+        "slug": "douako",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "159",
+        "nom": "Kiniéro",
+        "slug": "kiniero",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "160",
+        "nom": "Komola-Koura",
+        "slug": "komola-koura",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "161",
+        "nom": "Koumana",
+        "slug": "koumana",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "162",
+        "nom": "Sanguiana",
+        "slug": "sanguiana",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "163",
+        "nom": "Kouroukoro",
+        "slug": "kouroukoro",
+        "id_prefecture": "18"
+    },
+    {
+        "id_commune": "164",
+        "nom": "Mandiana-Centre",
+        "slug": "mandiana-centre",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "165",
+        "nom": "Balandougouba",
+        "slug": "balandougouba",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "166",
+        "nom": "Dialakoro",
+        "slug": "dialakoro",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "167",
+        "nom": "Faralakoro",
+        "slug": "faralakoro",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "168",
+        "nom": "Kantoumania",
+        "slug": "kantoumania",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "169",
+        "nom": "Kiniéran",
+        "slug": "kinieran",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "170",
+        "nom": "Koundian",
+        "slug": "koundian",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "171",
+        "nom": "Koundianakoro",
+        "slug": "koundianakoro",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "172",
+        "nom": "Morodou",
+        "slug": "morodou",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "173",
+        "nom": "Niantania",
+        "slug": "niantania",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "174",
+        "nom": "Saladou",
+        "slug": "saladou",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "175",
+        "nom": "sansando",
+        "slug": "sansando",
+        "id_prefecture": "19"
+    },
+    {
+        "id_commune": "176",
+        "nom": "Siguiri-Centre",
+        "slug": "siguiri-centre",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "177",
+        "nom": "Bankon",
+        "slug": "bankon",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "178",
+        "nom": "Doka",
+        "slug": "doka",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "179",
+        "nom": "Franwalia",
+        "slug": "franwalia",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "180",
+        "nom": "Kiniébakoura",
+        "slug": "kiniebakoura",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "181",
+        "nom": "Kintinian",
+        "slug": "kintinian",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "182",
+        "nom": "Maléa",
+        "slug": "malea",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "183",
+        "nom": "Naboun",
+        "slug": "naboun",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "184",
+        "nom": "Niagassola",
+        "slug": "niagassola",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "185",
+        "nom": "Niandankoro",
+        "slug": "niandankoro",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "186",
+        "nom": "Norassoba",
+        "slug": "norassoba",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "187",
+        "nom": "Nounkounkan",
+        "slug": "nounkounkan",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "188",
+        "nom": "Siguirini",
+        "slug": "siguirini",
+        "id_prefecture": "20"
+    },
+    {
+        "id_commune": "189",
+        "nom": "Mamou-Centre",
+        "slug": "mamou-centre",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "190",
+        "nom": "Bouliwel",
+        "slug": "bouliwel",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "191",
+        "nom": "Dounet",
+        "slug": "dounet",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "192",
+        "nom": "Gongoret",
+        "slug": "gongoret",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "193",
+        "nom": "Kégnéko",
+        "slug": "kegneko",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "194",
+        "nom": "Konkouré",
+        "slug": "konkoure",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "195",
+        "nom": "Nyagara",
+        "slug": "nyagara",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "196",
+        "nom": "Ouré-Kaba",
+        "slug": "oure-kaba",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "197",
+        "nom": "Porédaka",
+        "slug": "poredaka",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "198",
+        "nom": "Saramoussaya",
+        "slug": "saramoussaya",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "199",
+        "nom": "Soyah",
+        "slug": "soyah",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "200",
+        "nom": "Téguéréya",
+        "slug": "teguereya",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "201",
+        "nom": "Timbo",
+        "slug": "timbo",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "202",
+        "nom": "Tolo",
+        "slug": "tolo",
+        "id_prefecture": "21"
+    },
+    {
+        "id_commune": "203",
+        "nom": "Dalaba-Centre",
+        "slug": "dalaba-centre",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "204",
+        "nom": "Bodié",
+        "slug": "bodie",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "205",
+        "nom": "Ditin",
+        "slug": "ditin",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "206",
+        "nom": "Kaala",
+        "slug": "kaala",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "207",
+        "nom": "Kankalabé",
+        "slug": "kankalabe",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "208",
+        "nom": "Kébali",
+        "slug": "kebali",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "209",
+        "nom": "Koba",
+        "slug": "koba",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "210",
+        "nom": "Mafara",
+        "slug": "mafara",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "211",
+        "nom": "Mitty",
+        "slug": "mitty",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "212",
+        "nom": "Mombéyah",
+        "slug": "mombeyah",
+        "id_prefecture": "22"
+    },
+    {
+        "id_commune": "213",
+        "nom": "Pita-Centre",
+        "slug": "pita-centre",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "214",
+        "nom": "Bantignel",
+        "slug": "bantignel",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "215",
+        "nom": "Bourouwal-Tappé",
+        "slug": "bourouwal-tappe",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "216",
+        "nom": "Donghol-Touma",
+        "slug": "donghol-touma",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "217",
+        "nom": "Gongoré",
+        "slug": "gongore",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "218",
+        "nom": "Ley-Miro",
+        "slug": "ley-miro",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "219",
+        "nom": "Maci",
+        "slug": "maci",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "220",
+        "nom": "Ninguélandé",
+        "slug": "ninguelande",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "221",
+        "nom": "Sangareyah",
+        "slug": "sangareyah",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "222",
+        "nom": "Sintali",
+        "slug": "sintali",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "223",
+        "nom": "Timbi-Madina",
+        "slug": "timbi-madina",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "224",
+        "nom": "Timbi-Touny",
+        "slug": "timbi-touny",
+        "id_prefecture": "23"
+    },
+    {
+        "id_commune": "225",
+        "nom": "Labé-Centre",
+        "slug": "labe-centre",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "226",
+        "nom": "Dalein",
+        "slug": "dalein",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "227",
+        "nom": "Daralabe",
+        "slug": "daralabe",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "228",
+        "nom": "Diari",
+        "slug": "diari",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "229",
+        "nom": "Dionfo",
+        "slug": "dionfo",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "230",
+        "nom": "Garambé",
+        "slug": "garambe",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "231",
+        "nom": "Hafia",
+        "slug": "hafia",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "232",
+        "nom": "Kaalan",
+        "slug": "kaalan",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "233",
+        "nom": "Kouramangui",
+        "slug": "kouramangui",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "234",
+        "nom": "Noussy",
+        "slug": "noussy",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "235",
+        "nom": "Popodara",
+        "slug": "popodara",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "236",
+        "nom": "Sannou",
+        "slug": "sannou",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "237",
+        "nom": "Taranbaly",
+        "slug": "taranbaly",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "238",
+        "nom": "Tountouroun",
+        "slug": "tountouroun",
+        "id_prefecture": "24"
+    },
+    {
+        "id_commune": "239",
+        "nom": "Koubia-Centre",
+        "slug": "koubia-centre",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "240",
+        "nom": "Fafaya",
+        "slug": "fafaya",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "241",
+        "nom": "Gadha-Woundoun",
+        "slug": "gadha-woundoun",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "242",
+        "nom": "Matakaou",
+        "slug": "matakaou",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "243",
+        "nom": "Missira",
+        "slug": "missira",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "244",
+        "nom": "Pilimini",
+        "slug": "pilimini",
+        "id_prefecture": "25"
+    },
+    {
+        "id_commune": "245",
+        "nom": "Lelouma-Centre",
+        "slug": "lelouma-centre",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "246",
+        "nom": "Balaya",
+        "slug": "balaya",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "247",
+        "nom": "Djountou",
+        "slug": "djountou",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "248",
+        "nom": "Hericot",
+        "slug": "hericot",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "249",
+        "nom": "Korbe",
+        "slug": "korbe",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "250",
+        "nom": "Lafou",
+        "slug": "lafou",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "251",
+        "nom": "Linsansaran",
+        "slug": "linsansaran",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "252",
+        "nom": "Manda",
+        "slug": "manda",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "253",
+        "nom": "Parawol",
+        "slug": "parawol",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "254",
+        "nom": "Sagalé",
+        "slug": "sagale",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "255",
+        "nom": "Tyanguel-Bori",
+        "slug": "tyanguel-bori",
+        "id_prefecture": "26"
+    },
+    {
+        "id_commune": "256",
+        "nom": "Mali-Centre",
+        "slug": "mali-centre",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "257",
+        "nom": "Balaki",
+        "slug": "balaki",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "258",
+        "nom": "Donghol-Sigon",
+        "slug": "donghol-sigon",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "259",
+        "nom": "Dougountouny",
+        "slug": "dougountouny",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "260",
+        "nom": "Fougou",
+        "slug": "fougou",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "261",
+        "nom": "Gayah",
+        "slug": "gayah",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "262",
+        "nom": "Hidayatou",
+        "slug": "hidayatou",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "263",
+        "nom": "Lébékéré",
+        "slug": "lebekere",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "264",
+        "nom": "Madina-wora",
+        "slug": "madina-wora",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "265",
+        "nom": "Salambande",
+        "slug": "salambande",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "266",
+        "nom": "Téliré",
+        "slug": "telire",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "267",
+        "nom": "Touba",
+        "slug": "touba",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "268",
+        "nom": "Yembereng",
+        "slug": "yembereng",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "269",
+        "nom": "Badougoula",
+        "slug": "badougoula",
+        "id_prefecture": "27"
+    },
+    {
+        "id_commune": "270",
+        "nom": "Tougué-Centre",
+        "slug": "tougue-centre",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "271",
+        "nom": "Fatako",
+        "slug": "fatako",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "272",
+        "nom": "Fello-Koundoua",
+        "slug": "fello-koundoua",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "273",
+        "nom": "Kansangui",
+        "slug": "kansangui",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "274",
+        "nom": "Kolangui",
+        "slug": "kolangui",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "275",
+        "nom": "Kollet",
+        "slug": "kollet",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "276",
+        "nom": "Konah",
+        "slug": "konah",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "277",
+        "nom": "Kouratongo",
+        "slug": "kouratongo",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "278",
+        "nom": "Koin",
+        "slug": "koin",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "279",
+        "nom": "Tangaly",
+        "slug": "tangaly",
+        "id_prefecture": "28"
+    },
+    {
+        "id_commune": "280",
+        "nom": "Nzérékoré-Centre",
+        "slug": "nzerekore-centre",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "281",
+        "nom": "Bounouma",
+        "slug": "bounouma",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "282",
+        "nom": "Gouécké",
+        "slug": "gouecke",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "283",
+        "nom": "Kobéla",
+        "slug": "kobela",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "284",
+        "nom": "Koropara",
+        "slug": "koropara",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "285",
+        "nom": "Koulé",
+        "slug": "koule",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "286",
+        "nom": "Palé",
+        "slug": "pale",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "287",
+        "nom": "Samoé",
+        "slug": "samoe",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "288",
+        "nom": "Soulouta",
+        "slug": "soulouta",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "289",
+        "nom": "Womey",
+        "slug": "womey",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "290",
+        "nom": "Yalenzou",
+        "slug": "yalenzou",
+        "id_prefecture": "29"
+    },
+    {
+        "id_commune": "291",
+        "nom": "Beyla-Centre",
+        "slug": "beyla-centre",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "292",
+        "nom": "Boola",
+        "slug": "boola",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "293",
+        "nom": "Fouala",
+        "slug": "fouala",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "294",
+        "nom": "Sokourala",
+        "slug": "sokourala",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "295",
+        "nom": "Sinko",
+        "slug": "sinko",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "296",
+        "nom": "Koumandou",
+        "slug": "koumandou",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "297",
+        "nom": "Samana",
+        "slug": "samana",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "298",
+        "nom": "Gbessoba",
+        "slug": "gbessoba",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "299",
+        "nom": "Nionsomoridou",
+        "slug": "nionsomoridou",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "300",
+        "nom": "Karala",
+        "slug": "karala",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "301",
+        "nom": "Gbackédou",
+        "slug": "gbackedou",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "302",
+        "nom": "Moussadou",
+        "slug": "moussadou",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "303",
+        "nom": "Diassodou",
+        "slug": "diassodou",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "304",
+        "nom": "Diaragbéla",
+        "slug": "diaragbela",
+        "id_prefecture": "30"
+    },
+    {
+        "id_commune": "305",
+        "nom": "Guéckédou-Centre",
+        "slug": "gueckedou-centre",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "306",
+        "nom": "Bolodou",
+        "slug": "bolodou",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "307",
+        "nom": "Fangamadou",
+        "slug": "fangamadou",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "308",
+        "nom": "Guendembou",
+        "slug": "guendembou",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "309",
+        "nom": "Kassadou",
+        "slug": "kassadou",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "310",
+        "nom": "Koundou",
+        "slug": "koundou",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "311",
+        "nom": "Nongoa",
+        "slug": "nongoa",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "312",
+        "nom": "Ouéndé-Kénéma",
+        "slug": "ouende-kenema",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "313",
+        "nom": "Tékoulo",
+        "slug": "tekoulo",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "314",
+        "nom": "Terméssadou-Djibo",
+        "slug": "termessadou-djibo",
+        "id_prefecture": "31"
+    },
+    {
+        "id_commune": "315",
+        "nom": "Lola-Centre",
+        "slug": "lola-centre",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "316",
+        "nom": "Bossou",
+        "slug": "bossou",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "317",
+        "nom": "Foumbadou",
+        "slug": "foumbadou",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "318",
+        "nom": "Gama-Béréma",
+        "slug": "gama-berema",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "319",
+        "nom": "Guéassou",
+        "slug": "gueassou",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "320",
+        "nom": "Kokota",
+        "slug": "kokota",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "321",
+        "nom": "Lainé",
+        "slug": "laine",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "322",
+        "nom": "N'zoo",
+        "slug": "nzoo",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "323",
+        "nom": "Tounkarata",
+        "slug": "tounkarata",
+        "id_prefecture": "32"
+    },
+    {
+        "id_commune": "324",
+        "nom": "Macenta-Centre",
+        "slug": "macenta-centre",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "325",
+        "nom": "Balizia",
+        "slug": "balizia",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "326",
+        "nom": "Binikala",
+        "slug": "binikala",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "327",
+        "nom": "Boffossou",
+        "slug": "boffossou",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "328",
+        "nom": "Daro",
+        "slug": "daro",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "329",
+        "nom": "Fassankoni",
+        "slug": "fassankoni",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "330",
+        "nom": "Kouankan",
+        "slug": "kouankan",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "331",
+        "nom": "Koyamah",
+        "slug": "koyamah",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "332",
+        "nom": "N'zébéla",
+        "slug": "nzebela",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "333",
+        "nom": "Ourémai",
+        "slug": "ouremai",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "334",
+        "nom": "Panziazou",
+        "slug": "panziazou",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "335",
+        "nom": "Sengbédou",
+        "slug": "sengbedou",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "336",
+        "nom": "sérédou",
+        "slug": "seredou",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "337",
+        "nom": "Vassérédou",
+        "slug": "vasseredou",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "338",
+        "nom": "Watanka",
+        "slug": "watanka",
+        "id_prefecture": "33"
+    },
+    {
+        "id_commune": "339",
+        "nom": "Yomou-Centre",
+        "slug": "yomou-centre",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "340",
+        "nom": "Banié",
+        "slug": "banie",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "341",
+        "nom": "Bheeta",
+        "slug": "bheeta",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "342",
+        "nom": "Bignamou",
+        "slug": "bignamou",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "343",
+        "nom": "Bowé",
+        "slug": "bowe",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "344",
+        "nom": "Djécké",
+        "slug": "djecke",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "345",
+        "nom": "Péla",
+        "slug": "pela",
+        "id_prefecture": "34"
+    },
+    {
+        "id_commune": "346",
+        "nom": "Dixinn",
+        "slug": "dixinn",
+        "id_prefecture": "1"
+    },
+    {
+        "id_commune": "347",
+        "nom": "Kankan-Centre",
+        "slug": "kankan-centre",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "348",
+        "nom": "Balandougou",
+        "slug": "balandougou",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "349",
+        "nom": "Bate-Nafadji",
+        "slug": "bate-nafadji",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "350",
+        "nom": "Boula",
+        "slug": "boula",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "351",
+        "nom": "Gbérédou-Baranama",
+        "slug": "gberedou-baranama",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "352",
+        "nom": "Kanfamoria",
+        "slug": "kanfamoria",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "353",
+        "nom": "Koumban",
+        "slug": "koumban",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "354",
+        "nom": "Mamouroudou",
+        "slug": "mamouroudou",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "355",
+        "nom": "Missamana",
+        "slug": "missamana",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "356",
+        "nom": "Moribayah",
+        "slug": "moribayah",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "357",
+        "nom": "Sabadou-Baranama",
+        "slug": "sabadou-baranama",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "358",
+        "nom": "Tinti-Oulen",
+        "slug": "tinti-oulen",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "359",
+        "nom": "Tokounou",
+        "slug": "tokounou",
+        "id_prefecture": "35"
+    },
+    {
+        "id_commune": "360",
+        "nom": "Kérouané-Centre",
+        "slug": "kerouane-centre",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "361",
+        "nom": "Banankoro",
+        "slug": "banankoro",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "362",
+        "nom": "Damaro",
+        "slug": "damaro",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "363",
+        "nom": "Komodou",
+        "slug": "komodou",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "364",
+        "nom": "Kounsankoro",
+        "slug": "kounsankoro",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "365",
+        "nom": "Linko",
+        "slug": "linko",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "366",
+        "nom": "Sibiribaro",
+        "slug": "sibiribaro",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "367",
+        "nom": "Soromaya",
+        "slug": "soromaya",
+        "id_prefecture": "36"
+    },
+    {
+        "id_commune": "368",
+        "nom": "Kouroussa-Centre",
+        "slug": "kouroussa-centre",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "369",
+        "nom": "Babila",
+        "slug": "babila",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "370",
+        "nom": "Balato",
+        "slug": "balato",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "371",
+        "nom": "Banfélé",
+        "slug": "banfele",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "372",
+        "nom": "Doura",
+        "slug": "doura",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "373",
+        "nom": "Baro",
+        "slug": "baro",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "374",
+        "nom": "Cisséla",
+        "slug": "cissela",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "375",
+        "nom": "Douako",
+        "slug": "douako",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "376",
+        "nom": "Kiniéro",
+        "slug": "kiniero",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "377",
+        "nom": "Komola-Koura",
+        "slug": "komola-koura",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "378",
+        "nom": "Koumana",
+        "slug": "koumana",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "379",
+        "nom": "Sanguiana",
+        "slug": "sanguiana",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "380",
+        "nom": "Kouroukoro",
+        "slug": "kouroukoro",
+        "id_prefecture": "37"
+    },
+    {
+        "id_commune": "381",
+        "nom": "Mandiana-Centre",
+        "slug": "mandiana-centre",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "382",
+        "nom": "Balandougouba",
+        "slug": "balandougouba",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "383",
+        "nom": "Dialakoro",
+        "slug": "dialakoro",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "384",
+        "nom": "Faralakoro",
+        "slug": "faralakoro",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "385",
+        "nom": "Kantoumania",
+        "slug": "kantoumania",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "386",
+        "nom": "Kiniéran",
+        "slug": "kinieran",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "387",
+        "nom": "Koundian",
+        "slug": "koundian",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "388",
+        "nom": "Koundianakoro",
+        "slug": "koundianakoro",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "389",
+        "nom": "Morodou",
+        "slug": "morodou",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "390",
+        "nom": "Niantania",
+        "slug": "niantania",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "391",
+        "nom": "Saladou",
+        "slug": "saladou",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "392",
+        "nom": "sansando",
+        "slug": "sansando",
+        "id_prefecture": "38"
+    },
+    {
+        "id_commune": "393",
+        "nom": "Siguiri-Centre",
+        "slug": "siguiri-centre",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "394",
+        "nom": "Bankon",
+        "slug": "bankon",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "395",
+        "nom": "Doka",
+        "slug": "doka",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "396",
+        "nom": "Franwalia",
+        "slug": "franwalia",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "397",
+        "nom": "Kiniébakoura",
+        "slug": "kiniebakoura",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "398",
+        "nom": "Kintinian",
+        "slug": "kintinian",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "399",
+        "nom": "Maléa",
+        "slug": "malea",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "400",
+        "nom": "Naboun",
+        "slug": "naboun",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "401",
+        "nom": "Niagassola",
+        "slug": "niagassola",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "402",
+        "nom": "Niandankoro",
+        "slug": "niandankoro",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "403",
+        "nom": "Norassoba",
+        "slug": "norassoba",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "404",
+        "nom": "Nounkounkan",
+        "slug": "nounkounkan",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "405",
+        "nom": "Siguirini",
+        "slug": "siguirini",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "406",
+        "nom": "Nzérékoré-Centre",
+        "slug": "nzerekore-centre",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "407",
+        "nom": "Bounouma",
+        "slug": "bounouma",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "408",
+        "nom": "Gouécké",
+        "slug": "gouecke",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "409",
+        "nom": "Kobéla",
+        "slug": "kobela",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "410",
+        "nom": "Koropara",
+        "slug": "koropara",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "411",
+        "nom": "Koulé",
+        "slug": "koule",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "412",
+        "nom": "Palé",
+        "slug": "pale",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "413",
+        "nom": "Samoé",
+        "slug": "samoe",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "414",
+        "nom": "Soulouta",
+        "slug": "soulouta",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "415",
+        "nom": "Womey",
+        "slug": "womey",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "416",
+        "nom": "Yalenzou",
+        "slug": "yalenzou",
+        "id_prefecture": "40"
+    },
+    {
+        "id_commune": "417",
+        "nom": "Beyla-Centre",
+        "slug": "beyla-centre",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "418",
+        "nom": "Boola",
+        "slug": "boola",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "419",
+        "nom": "Fouala",
+        "slug": "fouala",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "420",
+        "nom": "Sokourala",
+        "slug": "sokourala",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "421",
+        "nom": "Sinko",
+        "slug": "sinko",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "422",
+        "nom": "Koumandou",
+        "slug": "koumandou",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "423",
+        "nom": "Samana",
+        "slug": "samana",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "424",
+        "nom": "Gbessoba",
+        "slug": "gbessoba",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "425",
+        "nom": "Nionsomoridou",
+        "slug": "nionsomoridou",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "426",
+        "nom": "Karala",
+        "slug": "karala",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "427",
+        "nom": "Gbackédou",
+        "slug": "gbackedou",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "428",
+        "nom": "Moussadou",
+        "slug": "moussadou",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "429",
+        "nom": "Diassodou",
+        "slug": "diassodou",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "430",
+        "nom": "Diaragbéla",
+        "slug": "diaragbela",
+        "id_prefecture": "41"
+    },
+    {
+        "id_commune": "431",
+        "nom": "Guéckédou-Centre",
+        "slug": "gueckedou-centre",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "432",
+        "nom": "Bolodou",
+        "slug": "bolodou",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "433",
+        "nom": "Fangamadou",
+        "slug": "fangamadou",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "434",
+        "nom": "Guendembou",
+        "slug": "guendembou",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "435",
+        "nom": "Kassadou",
+        "slug": "kassadou",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "436",
+        "nom": "Koundou",
+        "slug": "koundou",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "437",
+        "nom": "Nongoa",
+        "slug": "nongoa",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "438",
+        "nom": "Ouéndé-Kénéma",
+        "slug": "ouende-kenema",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "439",
+        "nom": "Tékoulo",
+        "slug": "tekoulo",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "440",
+        "nom": "Terméssadou-Djibo",
+        "slug": "termessadou-djibo",
+        "id_prefecture": "42"
+    },
+    {
+        "id_commune": "441",
+        "nom": "Lola-Centre",
+        "slug": "lola-centre",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "442",
+        "nom": "Bofossou",
+        "slug": "bofossou",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "443",
+        "nom": "Foumbadou",
+        "slug": "foumbadou",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "444",
+        "nom": "Gama-Béréma",
+        "slug": "gama-berema",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "445",
+        "nom": "Guéassou",
+        "slug": "gueassou",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "446",
+        "nom": "Kokota",
+        "slug": "kokota",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "447",
+        "nom": "Lainé",
+        "slug": "laine",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "448",
+        "nom": "N'zoo",
+        "slug": "nzoo",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "449",
+        "nom": "Tounkarata",
+        "slug": "tounkarata",
+        "id_prefecture": "43"
+    },
+    {
+        "id_commune": "450",
+        "nom": "Macenta-Centre",
+        "slug": "macenta-centre",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "451",
+        "nom": "Balizia",
+        "slug": "balizia",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "452",
+        "nom": "Binikala",
+        "slug": "binikala",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "453",
+        "nom": "Boffossou",
+        "slug": "boffossou",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "454",
+        "nom": "Daro",
+        "slug": "daro",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "455",
+        "nom": "Fassankoni",
+        "slug": "fassankoni",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "456",
+        "nom": "Kouankan",
+        "slug": "kouankan",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "457",
+        "nom": "Koyamah",
+        "slug": "koyamah",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "458",
+        "nom": "N'zébéla",
+        "slug": "nzebela",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "459",
+        "nom": "Ourémai",
+        "slug": "ouremai",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "460",
+        "nom": "Panziazou",
+        "slug": "panziazou",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "461",
+        "nom": "Sengbédou",
+        "slug": "sengbedou",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "462",
+        "nom": "sérédou",
+        "slug": "seredou",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "463",
+        "nom": "Vassérédou",
+        "slug": "vasseredou",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "464",
+        "nom": "Watanka",
+        "slug": "watanka",
+        "id_prefecture": "44"
+    },
+    {
+        "id_commune": "465",
+        "nom": "Yomou-Centre",
+        "slug": "yomou-centre",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "466",
+        "nom": "Banié",
+        "slug": "banie",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "467",
+        "nom": "Bheeta",
+        "slug": "bheeta",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "468",
+        "nom": "Bignamou",
+        "slug": "bignamou",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "469",
+        "nom": "Bowé",
+        "slug": "bowe",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "470",
+        "nom": "Djécké",
+        "slug": "djecke",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "471",
+        "nom": "Péla",
+        "slug": "pela",
+        "id_prefecture": "45"
+    },
+    {
+        "id_commune": "472",
+        "nom": "Doko",
+        "slug": "doko",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "473",
+        "nom": "Maléah",
+        "slug": "maleah",
+        "id_prefecture": "39"
+    },
+    {
+        "id_commune": "474",
+        "nom": "Sanoyah",
+        "slug": "sanoyah",
+        "id_prefecture": "3"
+    },
+    {
+        "id_commune": "475",
+        "nom": "N'zérékoré-Centre",
+        "slug": "nzerekore-centre",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "476",
+        "nom": "Bounouma",
+        "slug": "bounouma",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "477",
+        "nom": "Gouécké",
+        "slug": "gouecke",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "478",
+        "nom": "Kobéla",
+        "slug": "kobela",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "479",
+        "nom": "Koropara",
+        "slug": "koropara",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "480",
+        "nom": "Koulé",
+        "slug": "koule",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "481",
+        "nom": "Palé",
+        "slug": "pale",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "482",
+        "nom": "Samoé",
+        "slug": "samoe",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "483",
+        "nom": "Soulouta",
+        "slug": "soulouta",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "484",
+        "nom": "Womey",
+        "slug": "womey",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "485",
+        "nom": "Yalenzou",
+        "slug": "yalenzou",
+        "id_prefecture": "46"
+    },
+    {
+        "id_commune": "486",
+        "nom": "Linsan",
+        "slug": "linsan",
+        "id_prefecture": "2"
+    }
+]

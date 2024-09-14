@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "@babel/preset-react",
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    [
+      "transform-imports",
+      {
+        "react-use-set": {
+          "transform": "react-use-set/dist/${member}",
+          "preventFullImport": true
+        }
+      }
+    ]
+  ]
+}

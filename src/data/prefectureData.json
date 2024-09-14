@@ -1,0 +1,240 @@
+[
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 1,
+        "name": "Conakry",
+        "id_region": 1,
+        "code": ""
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 2,
+        "name": "Koubia",
+        "id_region": 2,
+        "code": "LAKB"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 3,
+        "name": "Labé",
+        "id_region": 2,
+        "code": "LALA"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 4,
+        "name": "Lélouma",
+        "id_region": 2,
+        "code": "LALE"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 5,
+        "name": "Mali",
+        "id_region": 2,
+        "code": "LAML"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 6,
+        "name": "Tougué",
+        "id_region": 2,
+        "code": "LATO"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 7,
+        "name": "Kankan",
+        "id_region": 3,
+        "code": "KKKK"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 8,
+        "name": "Kérouane",
+        "id_region": 3,
+        "code": "KKKE"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 9,
+        "name": "Kouroussa",
+        "id_region": 3,
+        "code": "KKKO"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 10,
+        "name": "Mandiana",
+        "id_region": 3,
+        "code": "KKMA"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 11,
+        "name": "Siguiri",
+        "id_region": 3,
+        "code": "KKSI"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 12,
+        "name": "Dabola",
+        "id_region": 3,
+        "code": "KKDB"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 13,
+        "name": "Dinguiraye",
+        "id_region": 3,
+        "code": "KKDG"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 14,
+        "name": "Faranah",
+        "id_region": 3,
+        "code": "KKFA"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 15,
+        "name": "Kissidougou",
+        "id_region": 5,
+        "code": "NZKS"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 16,
+        "name": "Mamou",
+        "id_region": 2,
+        "code": "LAMA"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 17,
+        "name": "Dalaba",
+        "id_region": 2,
+        "code": "LADA"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 18,
+        "name": "Pita",
+        "id_region": 2,
+        "code": "LAPT"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 19,
+        "name": "Coyah",
+        "id_region": 4,
+        "code": "KIAY"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 20,
+        "name": "Dubréka",
+        "id_region": 4,
+        "code": "KIDU"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 21,
+        "name": "Forécariah",
+        "id_region": 4,
+        "code": "KIFO"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 22,
+        "name": "Kindia",
+        "id_region": 4,
+        "code": "KIKI"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 23,
+        "name": "Télimélé",
+        "id_region": 4,
+        "code": ""
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 24,
+        "name": "Boffa",
+        "id_region": 4,
+        "code": "KIBF"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 25,
+        "name": "Boké",
+        "id_region": 4,
+        "code": "KIBK"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 26,
+        "name": "Gaoual",
+        "id_region": 2,
+        "code": "LAGAL"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 27,
+        "name": "Koundara",
+        "id_region": 2,
+        "code": "LAKD"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 28,
+        "name": "Fria",
+        "id_region": 4,
+        "code": "KIFR"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 29,
+        "name": "Beyla",
+        "id_region": 5,
+        "code": "NZBL"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 30,
+        "name": "Guéckédou",
+        "id_region": 5,
+        "code": "NZGK"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 31,
+        "name": "Lola",
+        "id_region": 5,
+        "code": "NZLO"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 32,
+        "name": "Macenta",
+        "id_region": 5,
+        "code": "NZMC"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 33,
+        "name": "Nzérékoré",
+        "id_region": 5,
+        "code": "NZNZ"
+    },
+    {
+        "model": "dossier.Prefecture",
+        "id_prefecture": 34,
+        "name": "Yomou",
+        "id_region": 5,
+        "code": "NZYO"
+    }
+]

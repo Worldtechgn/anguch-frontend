@@ -1,0 +1,33 @@
+/* CITES */
+export const GET_SITES = "GET_SITES"
+export const GET_SITES_SUCCESS = "GET_SITES_SUCCESS"
+export const GET_SITES_REQUESTED = "GET_SITES_REQUESTED"
+export const GET_SITES_FAIL = "GET_SITES_FAIL"
+
+
+/* SITE DETAIL */
+export const GET_SITE_SUCCESS = "GET_SITE_SUCCESS"
+export const GET_SITE_FAIL = "GET_SITE_FAIL"
+export const GET_SITE = "GET_SITE"
+/**
+ * add SITE
+ */
+export const ADD_NEW_SITE = "ADD_NEW_SITE"
+export const ADD_SITE_SUCCESS = "ADD_SITE_SUCCESS"
+export const ADD_SITE_FAIL = "ADD_SITE_FAIL"
+
+/**
+* Edit SITE
+*/
+export const UPDATE_SITE = "UPDATE_SITE"
+export const UPDATE_SITE_SUCCESS = "UPDATE_SITE_SUCCESS"
+export const UPDATE_SITE_FAIL = "UPDATE_SITE_FAIL"
+
+/**
+ * Delete SITE
+ */
+export const DELETE_SITE = "DELETE_SITE"
+export const DELETE_SITE_SUCCESS = "DELETE_SITE_SUCCESS"
+export const DELETE_SITE_FAIL = "DELETE_SITE_FAIL"
+
+

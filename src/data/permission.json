@@ -1,0 +1,46 @@
+[
+  {
+    "group":{
+    "name":"Catastrophes",
+    "permission":[
+        {"id":"view_catastrophe","name":"Afficher la liste des catastrophe"},
+        {"id":"delete_catastrophe","name":"Supprimer catastrophe"},
+        {"id":"add_catastrophe","name":"Ajouter catastrophe"},
+        {"id":"update_catastrophe","name":"Ajouter catastrophe"}
+      ]
+    }
+  },
+  {
+    "group":{
+    "name":"Utilisateur",
+    "permission":[
+        {"id":"view_utilisateur","name":"Afficher la liste des utilisateur"},
+        {"id":"delete_utilisateur","name":"Supprimer utilisateur"},
+        {"id":"add_utilisateur","name":"Ajouter utilisateur"},
+        {"id":"update_utilisateur","name":"Ajouter utilisateur"}
+      ]
+    }
+  },
+  {
+    "group":{
+    "name":"Profil alimentaire",
+    "permission":[
+        {"id":"view_profil_alimentaire","name":"Afficher la liste des profil_alimentaire"},
+        {"id":"delete_profil_alimentaire","name":"Supprimer profil_alimentaire"},
+        {"id":"add_profil_alimentaire","name":"Ajouter profil_alimentaire"},
+        {"id":"update_profil_alimentaire","name":"Ajouter profil_alimentaire"}
+      ]
+    }
+  },
+  {
+    "group":{
+    "name":"Prix du produit",
+    "permission":[
+        {"id":"view_prix_produit","name":"Afficher prix du produit"},
+        {"id":"delete_prix_produit","name":"Supprimer prix du produit"},
+        {"id":"add_prix_produit","name":"Ajouter prix du produit"},
+        {"id":"update_prix_produit","name":"Ajouter prix du produit"}
+      ]
+    }
+  }
+]

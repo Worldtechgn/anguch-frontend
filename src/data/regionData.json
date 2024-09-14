@@ -1,0 +1,42 @@
+[
+    {
+        "model": "dossier.Region",
+        "id_region": 1,
+        "fields": {
+            "name": "Conakry",
+            "code": "CO"
+        }
+    },
+    {
+        "model": "dossier.Region",
+        "id_region": 2,
+        "fields": {
+            "name": "Labé",
+            "code": "LALA"
+        }
+    },
+    {
+        "model": "dossier.Region",
+        "id_region": 3,
+        "fields": {
+            "name": "Kankan",
+            "code": "KKKK"
+        }
+    },
+    {
+        "model": "dossier.Region",
+        "id_region": 4,
+        "fields": {
+            "name": "Kindia",
+            "code": "KIKI"
+        }
+    },
+    {
+        "model": "dossier.Region",
+        "id_region": 5,
+        "fields": {
+            "name": "N'Zérékoré",
+            "code": "NZNZ"
+        }
+    }
+]

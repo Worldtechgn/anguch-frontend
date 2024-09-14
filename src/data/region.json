@@ -1,0 +1,52 @@
+[
+    {
+        "id_region": "1",
+        "nom": "Conakry",
+        "slug": "conakry"
+    },
+    {
+        "id_region": "2",
+        "nom": "Kindia",
+        "slug": "kindia"
+    },
+    {
+        "id_region": "3",
+        "nom": "Boké",
+        "slug": "boke"
+    },
+    {
+        "id_region": "4",
+        "nom": "Faranah",
+        "slug": "faranah"
+    },
+    {
+        "id_region": "5",
+        "nom": "Kankan",
+        "slug": "kakan"
+    },
+    {
+        "id_region": "6",
+        "nom": "Mamou",
+        "slug": "mamou"
+    },
+    {
+        "id_region": "7",
+        "nom": "Labé",
+        "slug": "labe"
+    },
+    {
+        "id_region": "8",
+        "nom": "Nzérékoré",
+        "slug": "nzerekore"
+    },
+    {
+        "id_region": "9",
+        "nom": "Kankan",
+        "slug": "kankan"
+    },
+    {
+        "id_region": "10",
+        "nom": "N'zérékoré",
+        "slug": "nzerekore"
+    }
+]
